@@ -1,2 +1,0 @@
-# freespaceware
-ez
